@@ -1,0 +1,7 @@
+# add git ignore file for node_modules and env files
+*/node_modules/*
+node_modules/*
+.env
+*/*.env
+.next
+*/*.next
